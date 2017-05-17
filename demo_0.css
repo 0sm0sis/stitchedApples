@@ -58,8 +58,9 @@
 }
 
 #title {
+    font-family: "Futura";
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
 }
 
 #names {
