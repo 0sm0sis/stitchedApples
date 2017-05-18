@@ -4,7 +4,7 @@
 
 .container {
         width: 100%;
-   background-color: grey;
+   background-color: #062354;
    margin: 0 auto;
    padding: 5px;
         /*display: inline-block;
@@ -58,15 +58,33 @@
 }
 
 #title {
+    color: white;
     font-family: "Futura";
     text-align: center;
     font-size: 100px;
 }
 
-#names {
+ul {
+    text-align: center;
+    
+}
+
+
+
+li {
+    margin: 3em;
+    background-color: white;
+    font-family: "Futura";
+    font-size: 20px;
+    display: inline;
+}
+
+#slogan {
+    font-family: "Futura";
     color: white;
     background-color: lightseagreen;
     text-align: center;
+    font-size: 30px;
 }
 
 
